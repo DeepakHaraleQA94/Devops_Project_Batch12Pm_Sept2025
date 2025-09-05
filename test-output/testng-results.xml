@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-05T11:45:08 IST" name="Suite" finished-at="2025-09-05T11:46:05 IST" duration-ms="56096">
+  <suite started-at="2025-09-05T12:11:33 IST" name="Default suite" finished-at="2025-09-05T12:11:51 IST" duration-ms="17810">
     <groups>
     </groups>
-    <test started-at="2025-09-05T11:45:08 IST" name="Test" finished-at="2025-09-05T11:46:05 IST" duration-ms="56096">
-      <class name="WebAutomation.validateAboutPage">
-        <test-method signature="homePage()[pri:0, instance:WebAutomation.validateAboutPage@51e4ccb3]" started-at="2025-09-05T11:45:52 IST" name="homePage" finished-at="2025-09-05T11:46:01 IST" duration-ms="8310" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- homePage -->
-      </class> <!-- WebAutomation.validateAboutPage -->
+    <test started-at="2025-09-05T12:11:33 IST" name="Default test" finished-at="2025-09-05T12:11:51 IST" duration-ms="17810">
       <class name="WebAutomation.ValidateLoginPage">
-        <test-method signature="homePage()[pri:0, instance:WebAutomation.ValidateLoginPage@47da3952]" started-at="2025-09-05T11:45:25 IST" name="homePage" finished-at="2025-09-05T11:45:52 IST" duration-ms="27140" status="PASS">
+        <test-method signature="homePage()[pri:0, instance:WebAutomation.ValidateLoginPage@6302bbb1]" started-at="2025-09-05T12:11:33 IST" name="homePage" finished-at="2025-09-05T12:11:51 IST" duration-ms="17701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePage -->
       </class> <!-- WebAutomation.ValidateLoginPage -->
-      <class name="WebAutomation.registrationpage">
-        <test-method signature="homePage()[pri:0, instance:WebAutomation.registrationpage@46e8a539]" started-at="2025-09-05T11:46:01 IST" name="homePage" finished-at="2025-09-05T11:46:05 IST" duration-ms="4033" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- homePage -->
-      </class> <!-- WebAutomation.registrationpage -->
-      <class name="WebAutomation.validateHomePage">
-        <test-method signature="homePage()[pri:0, instance:WebAutomation.validateHomePage@34645867]" started-at="2025-09-05T11:45:09 IST" name="homePage" finished-at="2025-09-05T11:45:25 IST" duration-ms="16481" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- homePage -->
-      </class> <!-- WebAutomation.validateHomePage -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
