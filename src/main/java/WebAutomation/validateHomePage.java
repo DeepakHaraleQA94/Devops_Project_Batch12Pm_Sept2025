@@ -8,7 +8,7 @@ public class validateHomePage {
 
 	@Test
 	public void homePage() {
-		
+		System.out.println("hi");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.yessinfotech.com/");
