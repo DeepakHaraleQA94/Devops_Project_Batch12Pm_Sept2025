@@ -7,6 +7,8 @@
       <class name="WebAutomation.ValidateLoginPage"/>
       <class name="WebAutomation.validateAboutPage"/>
       <class name="WebAutomation.registrationpage"/>
+      <class name="WebAutomation.validateadminsterpage"/>
+      
       
     </classes>
   </test> <!-- Test -->
